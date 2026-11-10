@@ -1,5 +1,10 @@
 # AUREN - Form of Life
 
+Live website: https://wertyfff.github.io/auren/
+Repository: https://github.com/wertyfff/auren
+
+The responsive interface is checked from 320 px to desktop widths, including mobile navigation, keyboard interaction and accordion states.
+
 Static website built with HTML, CSS and JavaScript. No build step, packages or database are required.
 
 Run from this directory:
